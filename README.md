@@ -10,6 +10,6 @@ A live example can be found at: https://mattmills.link
 4. Update `link-button-photo.jpg`. This is the small image that displays next to each link button. If you have multiple link buttons, you'll need to add a different image for each.
 
 ## Deployment
-There are many way to deploy this static HTML page. A couple of options are to:
+There are many ways to deploy this static HTML page. A couple of options are to:
 1. Simply copy all of the files to a web server.
 2. Fork this repository, and use [Netlify](https://www.netlify.com/) (this is how I host my page).
